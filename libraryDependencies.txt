@@ -1,0 +1,13 @@
+numpy
+pandas
+
+torch
+spacy
+gensim
+scikit-learn
+transformers
+
+
+
+
+
